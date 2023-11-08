@@ -17,17 +17,24 @@ main()
 	
 	if(a<b)
 	{
-		printf("'%d' is min no.",a);	
+		if(a<c)
+		{
+			printf("'%d' is min no",a);
+		}
+		else
+		{
+			printf("'%d' is min no",c);
+		}
 	}
 	else
 	{
 		if(b<c)
 		{
-			printf("'%d' is min no.",b);
+			printf("'%d' is min no",b);
 		}
 		else
 		{
-			printf("'%d' is min no.",c);
+			printf("'%d' is min no",c);
 		}
 	}
 }
