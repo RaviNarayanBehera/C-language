@@ -2,7 +2,7 @@
 #include<conio.h>
 main()
 {
-	printf("Max no. from 4 no. using 'ternary op.'");
+	printf("Max no. from 5 no. using 'ternary op.'");
 	
 	int a,b,c,d,e;
 	
