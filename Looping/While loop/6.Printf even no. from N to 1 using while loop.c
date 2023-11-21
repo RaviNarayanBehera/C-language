@@ -9,8 +9,11 @@ main()
 	
 	while(even>=a)
 	{	
-		printf("%d ",even);
-		even-=2;
+		if(even%2==0)
+		{
+			printf("%d ",even);
+		}
+		even--;
 	}
 }
 
