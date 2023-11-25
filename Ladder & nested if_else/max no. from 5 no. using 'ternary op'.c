@@ -21,5 +21,5 @@ main()
 	printf("Enter fifth no. := ");
 	scanf("%d",&e);
 	
-	(a>b && a>c && a>d && a>e)?printf("\n\n'%d' is max no.",a):(b>c && b>d && b>e)?printf("\n\n'%d' is max no.",b):(c>d && c>e)?printf("\n\n'%d' ic max no.",c):(d>e)?printf("\n\n'%d' is max no.",d):printf("\n\n'%d' is max no.",e);
+	(a>b && a>c && a>d && a>e)?printf("\n\n'%d' is max no.",a):(b>c && b>d && b>e)?printf("\n\n'%d' is max no.",b):(c>d && c>e)?printf("\n\n'%d' is max no.",c):(d>e)?printf("\n\n'%d' is max no.",d):printf("\n\n'%d' is max no.",e);
 }
