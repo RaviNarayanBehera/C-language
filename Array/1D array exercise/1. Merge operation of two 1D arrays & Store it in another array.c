@@ -62,6 +62,4 @@ main()
 		printf("%d ",c[i]);
 	}
 	
-	
-			
 }
