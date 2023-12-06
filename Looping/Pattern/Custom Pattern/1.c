@@ -23,11 +23,7 @@ main()
 	}
 	
 }
-/*if(j%2==0)
-			{
-				printf("* ");
-			}
-			else
+
 			{
 				printf(" ");
 			}*/
