@@ -26,5 +26,5 @@ main()
 	}
 	
 	printf("\nMaximum Number is : %d",max);
-	
+
 }
