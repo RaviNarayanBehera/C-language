@@ -24,7 +24,7 @@ main()
 			max=x[i];
 		}
 	}
-	
+
 	printf("\nMaximum Number is : %d",max);
 
 }
