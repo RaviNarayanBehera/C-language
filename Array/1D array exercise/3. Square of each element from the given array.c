@@ -24,5 +24,5 @@ main()
 		a[u]=a[i]*a[i];
 		printf("%d ",a[u]);
 	}
-	
+
 }
