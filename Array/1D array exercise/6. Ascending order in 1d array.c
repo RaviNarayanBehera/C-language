@@ -37,4 +37,5 @@ main()
 	{
 		printf("%d ",x[i]);
 	}
+
 }
