@@ -32,7 +32,7 @@ main()
 			{
 				printf("  ");
 			}
-			
+		
 		}
 		printf("\n");
 	}
