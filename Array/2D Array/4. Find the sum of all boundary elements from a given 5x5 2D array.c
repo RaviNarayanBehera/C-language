@@ -38,5 +38,4 @@ main()
 	}
 	printf("\nSum of Boundary elements of an array : %d",sum);
 	
-	
 }
