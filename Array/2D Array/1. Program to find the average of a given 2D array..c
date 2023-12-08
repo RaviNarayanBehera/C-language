@@ -1,3 +1,4 @@
+//Find Average in 2D Array....
 #include<stdio.h>
 #include<conio.h>
 main()
