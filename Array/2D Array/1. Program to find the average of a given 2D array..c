@@ -25,7 +25,7 @@ main()
 		printf("\n");
 	}
 	float sum=0;
-	
+
 	for(i=0; i<a; i++)
 	{
 		for(j=0; j<b; j++)
