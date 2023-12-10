@@ -32,7 +32,7 @@ main()
 			sum = sum + x[i][j];
 		}
 	}
-	
+
 	printf("\nAverage of array : %0.2f",sum/(a*b));
 		
 }
