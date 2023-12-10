@@ -6,7 +6,7 @@ main()
 	
 	printf("Enter size : ");
 	scanf("%d",&m);
-	
+
 	int i,j,a[m],temp=0;
 	
 	printf("\nEnter element : \n");
