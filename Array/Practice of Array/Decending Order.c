@@ -28,7 +28,7 @@ main()
 				m[i]=m[j];
 				m[j]=temp;
 			}
-		}
+		} 
 	}
 	
 	printf("\nDecending Order : ");
