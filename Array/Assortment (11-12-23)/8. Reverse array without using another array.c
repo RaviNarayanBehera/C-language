@@ -7,7 +7,7 @@ main()
 	printf("Enter array size := ");
 	scanf("%d",&u);
 	
-	int i,a[u];
+	int i,j,a[u];
 	
 	printf("\nEnter array element :\n\n");
 	
@@ -25,9 +25,20 @@ main()
 	
 	printf("\n\nReverse array elements are : \n");
 	{
-		for(i=u-1; i>=0; i--)
+		for(i=0; i<u; i++)
 		{
-			printf("%d ",a[i]);
-		}
+			for(j=i+1; j<u; j++)
+			{
+				a[u] = a[i];
+				a[i] = a[j];
+				a[j] = a[u];
+			}
+		}			
+				
+	}
+
+	for(i=0; i<u; i++)
+	{
+		printf("%d ",a[i]);
 	}
 }
