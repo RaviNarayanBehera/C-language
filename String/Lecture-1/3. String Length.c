@@ -8,7 +8,7 @@ main()
     printf("Enter the String: ");
     scanf("%s", s);
  
-    for (i = 0; s[i]; ++i);
+    for (i = 0; s[i]; i++);
  
     printf("\nLength of String is %d", i);
 
