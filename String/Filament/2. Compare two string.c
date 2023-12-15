@@ -34,5 +34,6 @@ main()
 		else
 		{
 			printf("String are not same.");
-		}
+		
+		
 }
