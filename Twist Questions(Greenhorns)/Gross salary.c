@@ -49,5 +49,4 @@ main()
 	
 	printf("\n\nGross Salary := %0.2f",gs);
 
-
 }
