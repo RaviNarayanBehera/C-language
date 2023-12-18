@@ -32,7 +32,7 @@ main()
 			ta = (bs * 7) / 100;
 			printf("\nTA := %0.2f",ta); 
 		}
-		else
+		else	
 		{
 			hra = (bs * 15) / 100;
 			printf("\nHRA := %0.2f",hra);
