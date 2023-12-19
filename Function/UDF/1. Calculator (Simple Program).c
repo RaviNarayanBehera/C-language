@@ -5,11 +5,11 @@ int calc()
 	char op;
 	int a,b;
 	
-	printf("\nEnter an Operator(+,-,*,/) := ");
-	scanf("%s",&op);
 	printf("\nEnter the value of a := ");
 	scanf("%d",&a);
-	printf("Enter the value of b := ");
+	printf("\nEnter an Operator(+,-,*,/) := ");
+	scanf("%s",&op);
+	printf("\nEnter the value of b := ");
 	scanf("%d",&b);
 	
 	switch(op)
