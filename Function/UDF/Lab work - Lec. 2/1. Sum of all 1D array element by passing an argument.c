@@ -7,7 +7,7 @@ void array(int sum)
 main()
 {
 	int m;
-	printf("Enter size of element : ");
+	printf("Enter size of array : ");
 	scanf("%d",&m);
 	
 	int a[m];
