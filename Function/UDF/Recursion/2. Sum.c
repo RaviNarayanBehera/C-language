@@ -15,6 +15,6 @@ void main()
 	scanf("%d",&a);
 	
 	sum(a);
-	
+            
 	printf("%d",sum(a));
 }
